@@ -1,0 +1,54 @@
+{
+    "Property Information": {
+        "Building Owner's Name": "DONALD R. ODEN",
+        "Building Street Address": "133 SW SUSAN LARE",
+        "City": "GRANTS PASS",
+        "State": "OR",
+        "ZIP Code": "97526",
+        "Property Description": "MAP: 36-06-24-A, TAX LOT: 402",
+        "Building Use": "RESIDENTIAL",
+        "Latitude/Longitude": "Lat. Long. Horizontal Datum: NAD 1927",
+        "Building Diagram Number": "9",
+        "Square Footage of Crawlspace or Enclosure": "1732 sq ft",
+        "Number of Permanent Flood Openings in Crawlspace or Enclosure": "2",
+        "Total Net Area of Flood Openings in Crawlspace or Enclosure": "770 sq in",
+        "Engineered Flood Openings in Crawlspace or Enclosure": "No",
+        "Square Footage of Attached Garage": "",
+        "Number of Permanent Flood Openings in Attached Garage": "",
+        "Total Net Area of Flood Openings in Attached Garage": "",
+        "Engineered Flood Openings in Attached Garage": ""
+    },
+    "FIRM Information": {
+        "NFIP Community Name & Community Number": "CITY OF GRANTS PASS / 410108",
+        "County Name": "JOSEPHINE",
+        "State": "",
+        "Map/Panel Number": "41033 C / 0511",
+        "Suffix": "E",
+        "FIRM Index Date": "12.03.2009",
+        "FIRM Panel Effective/Revised Date": "12.03.2009",
+        "Flood Zone(s)": "AE",
+        "Base Flood Elevation(s)": "911.3",
+        "Source of Base Flood Elevation Data": "",
+        "Elevation Datum Used for BFE": "",
+        "Building Located in CBRS or OPA": ""
+    },
+    "Building Elevation Information": {
+        "Building Elevations Based On": "",
+        "Benchmark Utilized": "RM 31",
+        "Vertical Datum": "NGVD 1929",
+        "Elevation Datum Used for Building Elevations": "NGVD 1929",
+        "Top of Bottom Floor": "",
+        "Top of the Next Higher Floor": "",
+        "Bottom of the Lowest Horizontal Structural Member": "",
+        "Attached Garage (Top of Slab)": "",
+        "Lowest Elevation of Machinery or Equipment Servicing the Building": "",
+        "Lowest Adjacent (Finished) Grade Next to Building": "",
+        "Highest Adjacent (Finished) Grade Next to Building": "",
+        "Lowest Adjacent Grade at Lowest Elevation of Deck or Stairs": ""
+    },
+    "Surveyor, Engineer, or Architect Certification": {
+        "Comments Provided": "",
+        "Latitude and Longitude Provided by a Surveyor": "",
+        "Attachments": ""
+    }
+}

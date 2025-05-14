@@ -1,0 +1,397 @@
+{
+    "SECTION A": {
+        "Building_Owner_Name": "Leonel Munoz-Astello",
+        "Building_Address": {
+            "Street_Address": "11018 Ensbrook Dr.",
+            "City": "Houston",
+            "State": "TX",
+            "ZIP_Code": "77099"
+        },
+        "Property_Description": "LOT 35, IN BLOCK 6, OF PARKGLEN"
+    },
+    "SECTION O": {
+        "TaxParcelNumber": "1003560000035",
+        "BuildingUse": "Residential",
+        "Latitude": "29\u00b039'18.20\"N",
+        "Longitude": "95\u00b034'27.22\"W",
+        "HorizontalDatum": "NAD 1983",
+        "AttachedPhotographs": "Yes",
+        "BuildingDiagramNumber": "1B",
+        "CrawlspacePresence": "Not Provided",
+        "FloodOpeningPresenceCrawlspace": "No",
+        "CrawlspaceFloodOpeningsNumber": "Not Provided",
+        "CrawlspaceFloodOpeningsArea": "Not Provided",
+        "SquareFootageOfAttachedGarage": "420.00 sq. ft.",
+        "FloodOpeningPresenceGarage": "Not Provided",
+        "GarageFloodOpeningsNumber": "Not Provided",
+        "GarageFloodOpeningsArea": "Not Provided"
+    },
+    "SECTION B": {
+        "FIRM_Information": {
+            "NFIP_Community_Name": "Houston",
+            "NFIP_Community_Identification_Number": 480296,
+            "County_Name": "Harris",
+            "State": "TX",
+            "Map_Panel_No": 4820100840,
+            "Suffix": "b",
+            "FIRM_Index_Date": "11/15/2019",
+            "FIRM_Panel_Effective_Revised_Date": "06/18/2007",
+            "Flood_Zone": "AE",
+            "Base_Flood_Elevation": 77.3,
+            "BFE_Source": "FIs FIRM",
+            "Elevation_Datum_BFE": "NAVD 1988",
+            "Building_In_CBRS_OPA": "No",
+            "Building_Seaward_Of_LiMWA": "No"
+        },
+        "Elevation_Certificate": {
+            "Building_Address": "11018 Ensbrook Dr",
+            "City": "Houston",
+            "State": "TX",
+            "ZIP_Code": 77099,
+            "Building_Elevations_Based_On": "Finished Construction", 
+            "Benchmark_Utilized": "RM040410 - ELEV. 75.52",
+            "Vertical_Datum": "NAVD 1988, 2001 Adj.",
+            "Elevation_Datum": "NAVD 1988",
+            "Conversion_Factor_Used": "No"
+        }
+    },
+    "Section D": {
+        "Lowest Adjacent Grade (LAG) next to building": {
+            "Type": "Natural",
+            "Height": {
+                "Feet": "X",
+                "Meters": " "
+            }
+        },
+        "Highest Adjacent Grade (HAG) next to building": {
+            "Type": "Natural",
+            "Height": {
+                "Feet": "X",
+                "Meters": " "
+            }
+        },
+        "Finished LAG at lowest elevation of attached deck or stairs, including structural support": {
+            "Height": {
+                "Feet": " ",
+                "Meters": " "
+            }
+        },
+        "Certification": "This certification is to be seen and verified by a state line, engineer, or architect authorized by state law to certify elevation information. The information on this Certificate represents the best efforts to interpret the data available. Any false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1007."
+    },
+    "Section A": {
+        "error": "Failed to parse JSON",
+        "raw_response": "The provided text does not seem to contain any detail that can be structured into a JSON format. A JSON format requires a certain amount of information to actually structure it. The provided text appears incomplete and lacks sufficient context needed to extract key details and structure them in JSON format. Please provide a more detailed text."
+    },
+    "SECTION E": {
+        "BuildingMeasurementInformation": {
+            "ApplicableZones": [
+                "AO",
+                "AR/AO",
+                "A (without BFE)"
+            ],
+            "Requirements": {
+                "ToComplete": [
+                    "Items E1\u2014E5"
+                ],
+                "ForE1-E4": [
+                    "Use natural grade, if available"
+                ],
+                "LetterOfMapChangeRequest": [
+                    "Complete Sections A, B, and C"
+                ],
+                "MeasurementInPuertoRico": [
+                    "Enter meters"
+                ]
+            },
+            "BuildingMeasurements": { 
+                "BasedOn": [ 
+                    "Construction Drawings",
+                    "Building Under Construction",
+                    "Finished Construction"
+                ],
+                "ElevationCertificateRequirement": [
+                    "A new Elevation Certificate will be required when construction of the building is complete"
+                ]
+            },
+            "MeasurementDetails": {
+                "E1": {
+                    "MeasurementFor": [
+                        "Top of bottom floor (including basement, crawlspace, or enclosure)"
+                    ],
+                    "Unit": [
+                        "feet",
+                        "meters"
+                    ],
+                    "RelativeTo": [
+                        "HAG",
+                        "LAG"
+                    ]
+                },
+                "E2": {
+                    "ApplicableTo": [
+                        "Building Diagrams 6-9 with permanent flood openings"
+                    ]
+                }
+            }
+        }
+    },
+    "Section G": [
+        {
+            "Local Official's Name": "",
+            "Title": "",
+            "NFIP Community Name": "",
+            "Telephone": "",
+            "Ext.": "",
+            "Email": "",
+            "Address": "",
+            "City": "",
+            "State": "",
+            "ZIP Code": "",
+            "Signature": "",
+            "Date": "",
+            "Comments": "",
+            "FEMA Form": "FF-206-FY-22-152",
+            "Page": "5 of 19"
+        },
+        {
+            "Company Name": "Cypress Property & Casualty INSURANCE COMPANY",
+            "Date": "10-25-2024",
+            "Application Number": "FLD1953015224",
+            "Company Address": "PO Box 2057, Kalispell, MT, 59903",
+            "Insurance Company Website": "https://cypressig.com",
+            "Contact Number": "(800) 704-4251",
+            "Effective Date": "11-11-2024",
+            "Expiration Date": "11-11-2025",
+            "Building Information": {
+                "Building Located In": "Not over Water",
+                "CBRS/OPA Designation Date": "",
+                "Building Use": "",
+                "Prior NFIP Claims": "",
+                "Building Severe Repetitive Loss (SRL) Property": "",
+                "Coverage Req'd for Disaster Assistance": "",
+                "Building Located Over Water": "Not Over Water",
+                "Building in Course of Construction": "NO",
+                "Building Construction Type": "Frame",
+                "Construction Type Description": "",
+                "Estimated Building Replacement Cost": "288000",
+                "Replacement Cost Value Returned by FEMA": "258862",
+                "Total sq. footage of building": "1632",
+                "Total # of floors in building": "1",
+                "Total # of units in building": "1",
+                "What floor is the unit located on?": "",
+                "Number of Detached Structures": "0",
+                "Building Located on Federal Land": "",
+                "Is the policy force-placed by the lender?": ""
+            },
+            "Foundation Information": {
+                "Foundation": "Slab on Grade (non-elevated)",
+                "Enclosure/Crawlspace Size": "",
+                "Number of Elevators": ""
+            },
+            "Mobilehome/Travel Trailer Information": {
+                "On Permanent Foundation": "",
+                "Anchored By": "",
+                "Serial Number": ""
+            },
+            "Venting Information": {
+                "Enclosure/Crawlspace Has Valid Flood Openings": "",
+                "Number of Openings": "",
+                "Area of Permanent Openings (Sq. In.)": "",
+                "Has Engineered Openings": ""
+            },
+            "Building Machinery, Equipment and Appliances": {
+                "Does the building contain appliances?": "",
+                "Are all appliances elevated above the first floor?": "",
+                "Does the building contain machinery and equipment servicing the building?": "",
+                "Is all machinery and equipment servicing the building, located inside or outside the building, elevated above the first floor?": "NO"
+            },
+            "Elevation Certificate Information": {
+                "Elevation Certificate": ""
+            }
+        }
+    ],
+    "SECTION F": [
+        {
+            "SectionName": "Property Owner Certification",
+            "CompletionsBy": "Property owner or owner's authorized representative",
+            "CompletionsOn": [
+                "Section A",
+                "Section B",
+                "Section E"
+            ],
+            "ZoneType": [
+                "Zone A (without BFE)",
+                "Zone AO"
+            ],
+            "Confirmation": "Statements in Sections A, B, and E are correct to the best of knowledge",
+            "PossibleAttachmentsCheck": "Check here if attachments and describe in the Comments area",
+            "Details": [
+                {
+                    "Label": "Owner's Name",
+                    "Value": ""
+                },
+                {
+                    "Label": "Address",
+                    "Value": ""
+                },
+                {
+                    "Label": "City",
+                    "Value": ""
+                },
+                {
+                    "Label": "State",
+                    "Value": ""
+                },
+                {
+                    "Label": "ZIP Code",
+                    "Value": ""
+                },
+                {
+                    "Label": "Signature",
+                    "Value": ""
+                },
+                {
+                    "Label": "Date",
+                    "Value": ""
+                },
+                {
+                    "Label": "Telephone",
+                    "Value": ""
+                },
+                {
+                    "Label": "Ext.",
+                    "Value": ""
+                },
+                {
+                    "Label": "Email",
+                    "Value": ""
+                },
+                {
+                    "Label": "Comments",
+                    "Value": ""
+                },
+                {
+                    "Label": "Form",
+                    "Value": "FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22)"
+                }
+            ]
+        },
+        {
+            "SectionName": "Elevation Certificate",
+            "CertificateInstruction": "Must follow the instructions on pages 9-19",
+            "Details": [
+                {
+                    "Label": "Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O Route and Box No.",
+                    "Value": "11018 Ensbrook Dr."
+                },
+                {
+                    "Label": "City",
+                    "Value": "Houston"
+                },
+                {
+                    "Label": "State",
+                    "Value": "TX"
+                },
+                {
+                    "Label": "ZIP Code",
+                    "Value": "77099"
+                },
+                {
+                    "Label": "Policy Number",
+                    "Value": ""
+                },
+                {
+                    "Label": "Company NAIC Number",
+                    "Value": ""
+                }
+            ]
+        }
+    ],
+    "SECTION G": {
+        "Community_Information": {
+            "Action_Recommended": "Completion by Community Official",
+            "Details": {
+                "Local_Official_Authorization": "Authorized by law or ordinance",
+                "Responsibility": "Administer the community's floodplain management ordinance"
+            }
+        }
+    },
+    "Section C": {
+        "DocumentDetails": {
+            "Authorization": {
+                "SignedBy": [
+                    "LicensedSurveyor",
+                    "Engineer",
+                    "Architect"
+                ],
+                "StateLaw": "Yes"
+            },
+            "ElevationData": {
+                "Source": "Not Mentioned",
+                "Date": "Not Mentioned"
+            },
+            "ActionTaken": {
+                "LocalOfficial": "Yes",
+                "Completed": "Not Mentioned"
+            }
+        }
+    },
+    "Section E": {
+        "File1": {
+            "Building_Location": "Zone A (without a BFE)",
+            "Item_Progression": "E5"
+        },
+        "File2": {
+            "Building_Location": "Zone AO",
+            "Item_Progression": "E5"
+        },
+        "File3": {
+            "Building_Location": "Zone AR/AO",
+            "Item_Progression": "E5"
+        },
+        "File4": {
+            "Action": "A local official completed"
+        }
+    },
+    "Section H": {
+        "error": "Failed to parse JSON",
+        "raw_response": "The provided text does not contain enough information or context to be formatted in JSON. Please provide more details."
+    },
+    "Section U": {
+        "Certificate Details": {
+            "Elevation Certificate Date": "02-01-1010",
+            "Diagram Number": "1B",
+            "Top of Bottom Floor": "77.9",
+            "Elevation Certificate First Floor Height": "77.9",
+            "FEMA First Floor Height": "77.9",
+            "First Floor Height Method Used": "EC"
+        },
+        "Risk Rating Coverage Details": {
+            "Building": {
+                "Coverage": "250,000.00",
+                "Deductible": "5,000.00",
+                "Premium": "$ 1,116.00"
+            },
+            "Content": {
+                "Coverage": "25,000.00",
+                "Deductible": "5,000.00",
+                "Premium": "$ 389.00"
+            },
+            "Increased Cost of Compliance (ICC) Premium": "$ 29.00",
+            "Mitigation Discount": "$ 0.00",
+            "Community Rating System Reduction": "$ (334.00)",
+            "Full Risk Premium": "$ 1,200.00",
+            "Annual Increase Cap Discount": "$ 0.00",
+            "Newly Mapped Discount": "$ 0.00",
+            "Pre-Firm Discount": "$ (6.00)",
+            "Discounted Premium": "$ 1,194.00",
+            "Reserve Fund Assessment": "$ 215.00",
+            "HFIAA Surcharge": "$ 25.00",
+            "Federal Policy Fee": "$ 47.00",
+            "Probation Surcharge": "$ 0.00",
+            "Total Quoted Premium": "$ 1,481.00"
+        },
+        "Form Code": "APC PRV 07 21",
+        "Additional Details": "AIATIAAIAD Gr Aan"
+    }
+}

@@ -1,0 +1,314 @@
+{
+    "SECTION A": {
+        "propertyInformation": {
+            "buildingOwner": "Michael Odom",
+            "buildingAddress": "643 Longhorn Trail",
+            "city": "Angleton",
+            "state": "TX",
+            "zipCode": "77515",
+            "propertyDescription": "Lot 438 Block 3 Bar X Sec 2 S/D",
+            "buildingUse": "Residential",
+            "latitudeLongitude": {
+                "latitude": 29.190578,
+                "longitude": -95.543489,
+                "horizontalDatum": "INAD 1927 & INAD 1983 CWGS 84"
+            },
+            "buildingDiagramNumber": "1A",
+            "buildingWithCrawlspaceOrEnclosures": {
+                "squareFootage": "NA",
+                "permanentFloodOpening": "No",
+                "nonEngineeredFloodOpenings": 0,
+                "engineeredFloodOpenings": 0,
+                "totalNetOpenAreaNonEngineered": 0,
+                "totalRatedAreaEngineered": 0,
+                "sumRatedArea": 0
+            },
+            "buildingWithAttachedGarage": {
+                "squareFootage": "to be determined",
+                "permanentFloodOpening": null,
+                "nonEngineeredFloodOpenings": 0,
+                "engineeredFloodOpenings": 0,
+                "totalNetOpenAreaNonEngineered": 0,
+                "totalRatedAreaEngineered": 0,
+                "sumRatedArea": 0
+            },
+            "nfipCommunityName": "Brazoria County",
+            "nfipCommunityId": 485467,
+            "countyName": "Brazoria",
+            "mapPanelNumber": 4803900420,
+            "suffix": "K",
+            "floodZones": "AE",
+            "baseFloodElevation": 28,
+            "sourceOfBFEData": null,
+            "elevationDatum": "NGVD 1929",
+            "isInCBRSAreaOrOPA": "No",
+            "isLocatedSeawardOfLIMWA": null
+        },
+        "policyInformation": {
+            "policyNumber": null,
+            "companyNaicNumber": null
+        }
+    },
+    "SECTION C": [
+        {
+            "BuildingElevationInfo": {
+                "BasedOn": {
+                    "ConstructionDrawings": true,
+                    "BuildingUnderConstruction": true, 
+                    "FinishedConstruction": false
+                },
+                "NewElevationCertificateRequired": "Post-construction",
+                "ElevationZones": [
+                    "A1-A30",
+                    "AE",
+                    "AH",
+                    "AO",
+                    "A",
+                    "VE",
+                    "V1-V30",
+                    "V",
+                    "AR",
+                    "AR/A",
+                    "AR/AE",
+                    "AR/A1-A30",
+                    "AR/AH",
+                    "AR/AO",
+                    "A99"
+                ],
+                "BenchmarkUtilized": "M1220",
+                "VerticalDatum": 1973,
+                "Location": {
+                    "City": "Angleton",
+                    "State": "TX",
+                    "ZIPCode": 77515
+                },
+                "ElevationDatum": {
+                    "GINVGD1929": false,
+                    "TINAVD1988": false,
+                    "Other": true
+                },
+                "DatumUsedForBFE": "MustBeSame",
+                "ConversionFactorUsed": "Unknown",
+                "SourceOfConversionFactor": "Undefined"
+            }
+        }
+    ],
+    "Section D": {
+        "Comments_area": "Ofeett O meters",
+        "Lowest_Adjacent_Grade_next_to_building": {
+            "lag_type": "Natural",
+            "lag_measurement": "@ feet",
+            "lag_unit": "meters"
+        },
+        "Highest_Adjacent_Grade_next_to_building": {
+            "hag_type": "Natural",
+            "hag_measurement": "BWieet",
+            "hag_unit": "meters"
+        },
+        "Finished_LAG_at_lowest_elevation_of_attached_deck_or_stairs_including_structural_support": {
+            "finished_lag_measurement": "@ feet",
+            "finished_lag_unit": "meters"
+        }
+    },
+    "SECTION D": {
+        "Certificate Title": "Surveyor, Engineer, or Architect Certification",
+        "Certification Description": "This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation information.",
+        "Certifier Statement": "I certify that the information on this Certificate represents my best efforts to interpret the data available. I understand that any false Statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.",
+        "Additional Information": "Were latitude and longitude in"
+    },
+    "Section A": [
+        {
+            "Item": "8 and/or 9",
+            "Page": "1-2 of Instructions",
+            "Building_Floor_Details": {
+                "Floor_Ranking": "C2.b",
+                "Floor_Height": "0 feet",
+                "Floor_Height_in_Meters": "0 meters",
+                "Position": "above or below the HAG"
+            }
+        },
+        {
+            "Item": "E3",
+            "Object_Details": {
+                "Object": "Attached garage (top of slab)",
+                "Object_Height": "0 feet",
+                "Object_Height_in_Meters": "0 meters",
+                "Position": "aboveor below the HAG"
+            }
+        },
+        {
+            "Item": "E4",
+            "Object_Details": {
+                "Object": "Top of platform of machinery and/or equipment servicing the building",
+                "Object_Height": "0 feet",
+                "Object_Height_in_Meters": "0 meters",
+                "Position": "aboveor below the HAG"
+            }
+        },
+        {
+            "Item": "ES",
+            "Flood_Depth_Info": {
+                "Zone": "AO",
+                "Flood_Depth_Number_Available": "No",
+                "Floor_Elevation_according_to_ordinance": "Yes/No/Unknown",
+                "Certification_By": "Local official"
+            }
+        }
+    ],
+    "SECTION G": {
+        "SectionTitle": "Community Information",
+        "RecommendedFor": "Community Official Completion",
+        "Description": "The local official who is authorized by law or ordinance to administer the community's floodpiain management ordinance can complete"
+    },
+    "Section C": {
+        "SourceDocument": {
+            "type": "other documentation",
+            "signed_and_sealed_by": "licensed surveyor, Qlengineer, or architect",
+            "authorization": "state law",
+            "purpose_of_authorization": "to certify elevation information",
+            "source_data": "not specified",
+            "date_of_data": "not specified",
+            "comments": "not specified"
+        },
+        "G2Form": {
+            "completed_by": "local official"
+        }
+    },
+    "Section E": {
+        "error": "Failed to parse JSON",
+        "raw_response": "The text provided does not contain sufficient information to extract key details and structure them in JSON format."
+    },
+    "Section H": {
+        "error": "Failed to parse JSON",
+        "raw_response": "The provided text is too vague and does not contain enough information to extract any key details and structure them in JSON format. Please provide more context or a more detailed text."
+    },
+    "Section G": {
+        "error": "Failed to parse JSON",
+        "raw_response": "Apologies, but the text provided seems to be blank. Please provide valid text for extraction."
+    },
+    "SECTION E": {
+        "File1": {
+            "Title": "Building Measurement Information (Survey Not Required)",
+            "Relevance": "For Zone AO, Zone AR/AO, and Zone A (Without BFE)",
+            "Instructions": [
+                {
+                    "Subsection": "E1",
+                    "Subsection_details": [
+                        "Provide measurements (C.2.a in applicable Building Diagram) for the following and check the appropriate boxes to show whether the measurement is above or below the natural HAG and the LAG",
+                        "Specify the top of bottom floor (including basement, crawlspace, or enclosure)",
+                        "Specify if the measurement is in feet or meters",
+                        "Specify if the measurement is above or below the HAG",
+                        "Specify if the measurement is above or below the LAG"
+                    ]
+                },
+                {
+                    "Subsection": "E2",
+                    "Subsection_details": [
+                        "Permanent flood openings provided in Building Diagrams 6-9"
+                    ]
+                }
+            ],
+            "Notes": [
+                "For items E1-E4, use natural grade, if available",
+                "If the Certificate is intended to support a Letter of Map Change request, complete Sections A, B, and C",
+                "Check the measurement used",
+                "A new Elevation Certificate will be required when construction of the building is complete",
+                "In Puerto Rico, enter in meters"
+            ]
+        }
+    },
+    "SECTION F": {
+        "Property Owner Certification": {
+            "Sections Certified": [
+                "A",
+                "B",
+                "E"
+            ],
+            "Zone": [
+                "A (without BFE)",
+                "AO"
+            ],
+            "Attachements": "Check here if attachments and describe in the Comments area."
+        },
+        "Insurance Details": {
+            "Provider": "Texas Farmers Insurance Company",
+            "Provider Contact": "(888) 391-2810",
+            "Provider Website": "https://www.farmers.com/",
+            "Address": "PO Box 2057, Kalispell, MT, 59903",
+            "Application Number": "FLD1660096216",
+            "Effective Date": "10-31-2024",
+            "Expiration Date": "10-31-2025",
+            "Waiting Period": "Loan Transaction - No Wait"
+        },
+        "Building Information": {
+            "Located In CBRS/OPA": "No",
+            "Located Over Water": "Not over Water",
+            "In Course of Construction": "Yes",
+            "Construction Type": "Frame",
+            "Building Replacement Cost": 315000,
+            "Replacement Cost Value Returned by FEMA": 275708,
+            "Total sq. Footage": 1972,
+            "Total # of Floors": 1,
+            "Total # of Units": 1,
+            "Number of Detached Structures": 0,
+            "Located on Federal Land": "N/A",
+            "Policy Force-placed by Lender": "N/A"
+        },
+        "Foundation Information": {
+            "Foundation Type": "Slab on Grade (non-elevated)",
+            "Number of Elevators": "N/A"
+        },
+        "Mobilehome/Travel Trailer Information": {
+            "On Permanent Foundation": "N/A",
+            "Anchored By": "N/A",
+            "Serial Number": "N/A"
+        },
+        "Venting Information": {
+            "Enclosure/Crawlspace Has Valid Flood Openings": "N/A",
+            "Number of Openings": "N/A",
+            "Area of Permanent Openings": "N/A",
+            "Has Engineered Openings": "N/A"
+        },
+        "Building Machinery, Equipment and Appliances": {
+            "Contains Appliances": "N/A",
+            "Appliances Elevated Above First Floor": "N/A",
+            "Contains Machinery and Equipment Servicing the Building": "N/A",
+            "Machinery and Equipment Elevated Above First Floor": "No"
+        },
+        "Elevation Certificate Information": {
+            "Elevation Certificate": "N/A"
+        }
+    },
+    "Section U": {
+        "Elevation Certificate Date": "08-3 1-2024",
+        "Diagram Number": "1A",
+        "Top of Bottom Floor": "31",
+        "Top of Next Higher Floor": "",
+        "Lowest Adjacent Grade (LAG)": "29.7",
+        "Floodproofing Certificate": "",
+        "Flood Proofing Elevation": "",
+        "Lowest (Rating) Floor Elevation": "",
+        "Elevation Certificate First Floor Height": "1.3",
+        "FEMA First Floor Height": "0.25",
+        "First Floor Height Method Used": "FEMA_ASSUMPTION",
+        "Building Coverage Deductible": "2,000.00",
+        "Contents Coverage Deductible": "0.00",
+        "Building Premium": "701.00",
+        "Content Premium": "0.00",
+        "Increased Cost of Compliance (ICC) Premium": "13.00",
+        "Mitigation Discount": "0.00",
+        "Community Rating System Reduction": "0.00",
+        "Full Risk Premium": "714.00",
+        "Annual Increase Cap Discount": "0.00",
+        "Newly Mapped Discount": "0.00",
+        "Pre-Firm Discount": "0.00",
+        "Discounted Premium": "714.00",
+        "Reserve Fund Assessment": "129.00",
+        "HFIAA Surcharge": "250.00",
+        "Federal Policy Fee": "47.00",
+        "Probation Surcharge": "0.00",
+        "Total Quoted Premium": "1140.00",
+        "Signature Date": "",
+        "Date": ""
+    }
+}

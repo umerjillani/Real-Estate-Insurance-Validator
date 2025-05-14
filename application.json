@@ -1,0 +1,93 @@
+{
+    "Standard Flood Insurance Application": {
+        "PO Box": "PO Box 2057 Kalispell MT 59903 USA",
+        "Insurance Company": "MONARCH NATIONAL INSURANCE COMPANY",
+        "Insurance Company Website": "https://monarchnational.com/",
+        "Insurance Company Phone": "(800) 219-3102",
+        "Date": "05-07-2024",
+        "Application Number": "FLD5715007615",
+        "Effective Date": "05-07-2024",
+        "Expiration Date": "05-07-2025",
+        "Insured Name": "YUNIER SUAREZ CALZADA",
+        "Mailing Address & Phone": "3054 NW 98th St, Miami, FL, 33147",
+        "Property Address": "3054 NW 98TH ST, Miami, Miami-Dade, FL, 33147",
+        "Agency Name": "OPTION 1 INSURANCE AGENCY LLC",
+        "Agency Address": "5951 NW 151ST ST STE 105, Hialeah, FL, 33014",
+        "Agent Phone Number": "(305)560-3497",
+        "Agent Email": "alexandra.option1@gmail.com",
+        "Applicant Type": "INDIVIDUAL",
+        "1st Mortgagee": { 
+            "Name": "FREEDOM MORTGAGE CORPORATION ISAOA ATIMA",
+            "Address": "PO Box 5050, Troy, Oakland County, MI, 48007",
+            "Loan Number": "148006562"
+        },
+        "Community Information": {
+            "Community Name": "MIAMI-DADE COUNTY",
+            "Community Number": "120635",
+            "Map Panel": "0301",
+            "Map Panel Suffix": "L",
+            "Current Flood Zone": "AH",
+            "Current Base Flood Elevation": "9",
+            "FIRM Date": "09-29-1972",
+            "Program": "FLOODREGULAR",
+            "County": "Miami-Dade",
+            "Current Map Date": "09-29-1972"
+        },
+        "Construction Information": {
+            "Date of Original Construction": "12-31-1957",
+            "Building Substantially Improved": "NO",
+            "Post-FIRM Construction": "NO"
+        },
+        "Occupancy Information": {
+            "Occupancy Type": "Single Family",
+            "Primary Residence": "YES",
+            "Small Business": "NO",
+            "Nonprofit Entity": "NO"
+        }
+    },
+    "Standard Flood Insurance Quote": {
+        "PO Box": "PO Box 2057 Kalispell MT 59903 USA",
+        "Insurance Company": "MONARCH NATIONAL INSURANCE COMPANY",
+        "Insurance Company Website": "https://monarchnational.com/",
+        "Insurance Company Phone": "(800) 219-3102",
+        "Date": "05-07-2024",
+        "Application Number": "FLD5715007615",
+        "Effective Date": "05-07-2024",
+        "Expiration Date": "05-07-2025",
+        "Waiting Period": "Loan Transaction - No Wait",
+        "Building Information": {
+            "Building Located In CBRS/OPA": "NO",
+            "Estimated Building Replacement Cost": "287800",
+            "Total sq. footage of building": "2034",
+            "Total # of floors in building": "1",
+            "Total # of units in building": "1",
+            "Building Construction Type": "Masonry",
+            "Enclosure/Crawlspace Size" : "91 sq ft"
+        },
+        "Foundation Information": {
+            "Foundation": "Slab on Grade (non-elevated)"
+        },
+        "Elevation Certificate Information": {
+            "Elevation Certificate Date": "02-04-2022",
+            "Diagram Number": "1B",
+            "Top of Bottom Floor": "9.8",
+            "Lowest Adjacent Grade (LAG)": "8.7",
+            "Elevation Certificate First Floor Height": "1.1",
+            "FEMA First Floor Height": "1.1",
+            "Elevation Certificate Section Used": "C"
+        },
+        "Premium Calculations": {
+            "Building Premium": "$ 469.00",
+            "Content Premium": "$ 0.00",
+            "Increased Cost of Compliance (ICC) Premium": "$ 9.00",
+            "Mitigation Discount": "$ 0.00",
+            "Community Rating System Reduction": "$ (99.00)",
+            "Full Risk Premium": "$ 379.00",
+            "Discounted Premium": "$ 379.00",
+            "Reserve Fund Assessment": "$ 68.00",
+            "HFIAA Surcharge": "$ 25.00",
+            "Federal Policy Fee": "$ 47.00",
+            "Total Quoted Premium": "$ 519.00"
+        }
+    }
+}
