@@ -1,0 +1,84 @@
+{
+    "Application": {
+        "Date": "05-07-2024",
+        "Application Number": "FLDS5715007615",
+        "Insured Name": "Yunier Suarez Calzada",
+        "Mailing Address": "3054 NW 98th St, Miami, FL, 33147",
+        "Cell Phone": "(305)560-3497",
+        "Email": "kitayponcorp@gmail.com",
+        "Applicant Type": "Individual",
+        "Property Address": "3054 NW 98TH ST, Miami, Miami-Dade, FL, 33147",
+        "Agency": {
+            "Name": "Option | Insurance Agency LLC",
+            "Address": "5951 NW I5IST ST STE 105, Hialeah, FL, 33014",
+            "Email": "alexandra.option1@gmail.com",
+            "Phone Number": "3059019993"
+        },
+        "1st Mortgagee": {
+            "Name": "Freedom Mortgage Corporation ISAOA ATIMA",
+            "Address": "PO Box 5050, Troy, Oakland County, MI, 48007",
+            "Loan Number": "148006562"
+        },
+        "Community Information": {
+            "Community Name": "Miami-Dade County",
+            "Community Number": "120635",
+            "Map Panel": "0301",
+            "Map Panel Suffix": "L",
+            "Current Flood Zone": "AH",
+            "Current Base Flood Elevation (BFE)": "9",
+            "FIRM Date": "09-29-1972",
+            "County": "Miami-Dade",
+            "Current Map Date": "09-29-1972"
+        },
+        "Building Information": {
+            "Construction Date": "12-31-1957",
+            "Building Substantially Improved": "No",
+            "Post-FIRM Construction": "No",
+            "Occupancy Type": "Single Family",
+            "Building Construction Type": "Masonry",
+            "Estimated Building Replacement Cost": 287800,
+            "Replacement Cost Value Returned by FEMA": 297819,
+            "Total sq. footage of building": 2034,
+            "Total # of floors in building": 1,
+            "Total # of units in building": 1,
+            "Foundation": "Slab on Grade (non-elevated)"
+        },
+        "Elevation Certificate Information": {
+            "Elevation Certificate Date": "02-04-2022",
+            "Diagram Number": "1B",
+            "Top of Bottom Floor": 9.8,
+            "Lowest Adjacent Grade (LAG)": 8.7,
+            "Elevation Certificate First Floor Height": 1.1
+        },
+        "Risk Rating 2.0": {
+            "Coverage": {
+                "Building": 250000.0,
+                "Content": 0.0
+            },
+            "Deductible": {
+                "Building": 5000.0,
+                "Content": 0.0
+            }
+        }, 
+        "Premium Calculations": {
+            "Building Premium": 469.0,
+            "Content Premium": 0.0,
+            "Increased Cost of Compliance (ICC) Premium": 9.0,
+            "Community Rating System Reduction": -99.0,
+            "Full Risk Premium": 379.0,
+            "Reserve Fund Assessment": 68.0,
+            "HFIAA Surcharge": 25.0,
+            "Federal Policy Fee": 47.0,
+            "Total Quoted Premium": 519.0
+        },
+        "Insurance Company": {
+            "Name": "Monarch National Insurance Company",
+            "Website": "https://monarchnational.com/",
+            "Phone": "(800) 219-3102",
+            "PO Box": "2057 Kalispell MT 59903 USA"
+        },
+        "Effective Date": "05-07-2024",
+        "Expiration Date": "05-07-2025", 
+        "Waiting Period": "Loan Transaction - No Wait"
+    }
+}
