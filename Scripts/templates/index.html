@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>OCR API Test</title>
+</head>
+<body>
+  <h1>Upload EC PDF</h1>
+  <form action="/upload_ec" method="post" enctype="multipart/form-data">
+    <input type="file" name="ec_file" accept="application/pdf">
+    <button type="submit">Upload EC</button>
+  </form>
+
+  <h1>Upload Application PDF</h1>
+  <form action="/upload_application" method="post" enctype="multipart/form-data">
+    <input type="file" name="application_file" accept="application/pdf">
+    <button type="submit">Upload Application</button>
+  </form>
+
+  <h1>Upload Photographs</h1>
+  <form action="/upload_photos" method="post" enctype="multipart/form-data">
+    <input type="file" name="photos" accept="image/*,.pdf,.webp" multiple>
+    <button type="submit">Upload Photos</button>
+  </form>
+
+  <h1>Process Files</h1>
+  <form action="/process" method="post">
+    <button type="submit">Run Comparison</button>
+  </form>
+</body>
+</html>

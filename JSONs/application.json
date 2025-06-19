@@ -1,84 +1,168 @@
 {
-    "Application": {
-        "Date": "05-07-2024",
-        "Application Number": "FLDS5715007615",
-        "Insured Name": "Yunier Suarez Calzada",
-        "Mailing Address": "3054 NW 98th St, Miami, FL, 33147",
-        "Cell Phone": "(305)560-3497",
-        "Email": "kitayponcorp@gmail.com",
-        "Applicant Type": "Individual",
-        "Property Address": "3054 NW 98TH ST, Miami, Miami-Dade, FL, 33147",
-        "Agency": {
-            "Name": "Option | Insurance Agency LLC",
-            "Address": "5951 NW I5IST ST STE 105, Hialeah, FL, 33014",
-            "Email": "alexandra.option1@gmail.com",
-            "Phone Number": "3059019993"
+    "monarch": "JC",
+    "Date": "05-07-2024",
+    "Application Number": "FLDS5715007615",
+    "Insured Name(s)": "YUNIER SUAREZ CALZADA",
+    "Mailing Address": "3054 NW 98th St, Miami, FL, 33147",
+    "Home Phone": "",
+    "Work Phone": "",
+    "Cell Phone": "(305)560-3497",
+    "Email": "kitayponcorp@gmail.com",
+    "Applicant Type": "INDIVIDUAL",
+    "Prior Company NAIC": "",
+    "Prior Policy Number": "",
+    "Prior Company Name": "",
+    "Renewal Billing": "",
+    "Insurance Type": "STANDARD FLOOD INSURANCE",
+    "Application Address": "PO Box 2057 Kalispell MT 59903 USA",
+    "Effective Date": "05-07-2024",
+    "Insurance Company": "MONARCH NATIONAL INSURANCE COMPANY",
+    "Insurance Company Website": "https://monarchnational.com/",
+    "Insurance Company Phone": "(800) 219-3102",
+    "Expiration Date": "05-07-2025",
+    "Waiting Period": "Loan Transaction - No Wait",
+    "Property Address": "3054 NW 98TH ST, Miami, Miami-Dade, FL, 33147",
+    "Agency Name": "OPTION | INSURANCE AGENCY LLC",
+    "Agency Address": "5951 NW I5IST ST STE 105, Hialeah, FL, 33014",
+    "Agency Email": "alexandra.option1@gmail.com",
+    "Agency Phone Number": "3059019993",
+    "Property Address Type": "Location",
+    "Other Policy Number": "",
+    "Potential Duplicate Policy": "",
+    "1st Mortgagee": "FREEDOM MORTGAGE CORPORATION ISAOA ATIMA",
+    "Mortgagee Address": "PO Box 5050, Troy, Oakland County, MI, 48007",
+    "Mortgagee Phone Number": "",
+    "Mortgagee Fax Number": "",
+    "Loan Number": "148006562",
+    "Mandatory Purchase": "Required under",
+    "Current Community Information": {
+        "Community Name": "MIAMI-DADE COUNTY*",
+        "Community Number": "120635",
+        "Map Panel": "0301",
+        "Map Panel Suffix": "L",
+        "Current Flood Zone": "AH",
+        "Current Base Flood Elevation(BFE)": "9",
+        "FIRM Date": "09-29-1972",
+        "Program": "FLOODREGULAR",
+        "Program Status": "",
+        "County": "Miami-Dade",
+        "Current Map Date": "09-29-1972",
+        "Rating Map Date": ""
+    },
+    "Prior Community Information": {
+        "Community Number": "",
+        "Map Panel": "",
+        "Map Panel Suffix": "",
+        "Flood Zone": "",
+        "FIRM Date": "09-29-1972",
+        "Has This Property Been Remapped?": "",
+        "Map Revision Date": ""
+    }, 
+    "Construction Date": {
+        "Date of Original Construction": "12-31-1957",
+        "Building Substantially Improved": "NO",
+        "Post-FIRM Construction": "NO",
+        "Substantial Improvement Date": "",
+        "Building is on list of Historic Buildings": ""
+    },
+    "Prior Policy Information": {
+        "Is this a new purchase (within the last year)?": "NO",
+        "Prior Owner Policy Number": "",
+        "Prior Owner Company Name": "",
+        "Did the applicant have a prior NFIP policy for the building that lapsed?": "",
+        "Was the policy receiving a PRE-FIRM or Newly Mapped discount?": "",
+        "Mapped discount when it lapsed?": "",
+        "Did the Policy lapse for a valid reason?": ""
+    },
+    "Occupancy Information": {
+        "Occupancy Type": "Single Family",
+        "Building Description": "",
+        "Is this the Applicant's Primary": "",
+        "Is the insured a small business with less than 100 employees?": "NO",
+        "Is the insured a nonprofit entity?": "NO"
+    },
+    "Building Information": {
+        "Building Located In CBRS/OPA": "NO",
+        "CBRS/OPA Designation Date": "",
+        "If the building is in the buffer zone, did USFWS issue an official determination showing the building outside the system unit or OPA?": "",
+        "Is the building use consistent with the protected area purpose?": "",
+        "Prior NFIP Claims": "",
+        "Building Severe Repetitive Loss (SRL) Property": "",
+        "Property on NFIP SRL list, Document(s) provided indicating non-SRL": "",
+        "Coverage Req'd for Disaster Assistance": "",
+        "Building Located Over Water": "Not over Water",
+        "Building in Course of Construction": "NO",
+        "Building Construction Type": "Masonry",
+        "Construction Type Description": "",
+        "Estimated Building Replacement Cost": "287800",
+        "Replacement Cost Value Returned by FEMA": "297819",
+        "Total sq. footage of building": "2034",
+        "Total # of floors in building": "1",
+        "Total # of units in building": "1",
+        "What floor is the unit located on?": "",
+        "Number of Detached Structures": "0",
+        "Building Located on Federal Land": "",
+        "Is the policy force-placed by the lender?": ""
+    },
+    "Foundation Information": {
+        "Foundation": "Slab on Grade (non-elevated)",
+        "Enclosure/Crawlspace Size": "",
+        "Number of Elevators": ""
+    },
+    "Mobilehome/Travel Trailer Information": {
+        "On Permanent Foundation": "",
+        "Anchored By": "",
+        "Serial Number": ""
+    },
+    "Venting Information (excluding V-Zones)": {
+        "Enclosure/Crawlspace Has Valid Flood Openings": "",
+        "Number of Openings": "",
+        "Area of Permanent Openings (Sq. In.)": "",
+        "Has Engineered Openings": ""
+    },
+    "Building Machinery, Equipment and Appliances": {
+        "Does the building contain appliances?": "",
+        "Are all appliances elevated above the first floor?": "",
+        "Does the building contain machinery and equipment servicing the building?": "",
+        "Is all machinery and equipment servicing the building, located inside or outside the building, elevated above the first floor?": "NO"
+    }, 
+    "Elevation Certificate Information": {
+        "Elevation Certificate Section Used": "C",
+        "Elevation Certificate Date": "02-04-2022",
+        "Diagram Number": "1B",
+        "Top of Bottom Floor": "9.8",
+        "Top of Next Higher Floor": "",
+        "Lowest Adjacent Grade (LAG)": "8.7"
+    },
+    "Premium Calculations": {
+        "Floodproofing Certificate": "",
+        "Flood Proofing Elevation": "",
+        "Lowest (Rating) Floor Elevation": "",
+        "Elevation Certificate First Floor Height": "1.1",
+        "FEMA First Floor Height": "1.1",
+        "First Floor Height Method Used": "EC",
+        "RISK RATING 2.0 COVERAGE DEDUCTIBLE": {
+            "Building": "250,000.00",
+            "Content": "0.00"
         },
-        "1st Mortgagee": {
-            "Name": "Freedom Mortgage Corporation ISAOA ATIMA",
-            "Address": "PO Box 5050, Troy, Oakland County, MI, 48007",
-            "Loan Number": "148006562"
+        "Signature of Insurance Agent/Producer Date": "",
+        "COMPONENTS OF THE TOTAL AMOUNT DUE": {
+            "Building Premium": "$ 469.00",
+            "Content Premium": "$ 0.00",
+            "Increased Cost of Compliance (ICC) Premium": "$9.00",
+            "Mitigation Discount": "$ 0.00",
+            "Community Rating System Reduction": "$ (99.00)",
+            "Full Risk Premium": "$ 379.00",
+            "Annual Increase Cap Discount": "$ 0.00",
+            "Pre-Firm Discount": "$ 0.00",
+            "Discounted Premium": "$ 379.00",
+            "Reserve Fund Assessment": "$ 68.00",
+            "HFIAA Surcharge": "$ 25.00",
+            "Federal Policy Fee": "$ 47.00",
+            "Probation Surcharge": "$ 0.00",
+            "Total Quoted Premium": "$ 519.00"
         },
-        "Community Information": {
-            "Community Name": "Miami-Dade County",
-            "Community Number": "120635",
-            "Map Panel": "0301",
-            "Map Panel Suffix": "L",
-            "Current Flood Zone": "AH",
-            "Current Base Flood Elevation (BFE)": "9",
-            "FIRM Date": "09-29-1972",
-            "County": "Miami-Dade",
-            "Current Map Date": "09-29-1972"
-        },
-        "Building Information": {
-            "Construction Date": "12-31-1957",
-            "Building Substantially Improved": "No",
-            "Post-FIRM Construction": "No",
-            "Occupancy Type": "Single Family",
-            "Building Construction Type": "Masonry",
-            "Estimated Building Replacement Cost": 287800,
-            "Replacement Cost Value Returned by FEMA": 297819,
-            "Total sq. footage of building": 2034,
-            "Total # of floors in building": 1,
-            "Total # of units in building": 1,
-            "Foundation": "Slab on Grade (non-elevated)"
-        },
-        "Elevation Certificate Information": {
-            "Elevation Certificate Date": "02-04-2022",
-            "Diagram Number": "1B",
-            "Top of Bottom Floor": 9.8,
-            "Lowest Adjacent Grade (LAG)": 8.7,
-            "Elevation Certificate First Floor Height": 1.1
-        },
-        "Risk Rating 2.0": {
-            "Coverage": {
-                "Building": 250000.0,
-                "Content": 0.0
-            },
-            "Deductible": {
-                "Building": 5000.0,
-                "Content": 0.0
-            }
-        }, 
-        "Premium Calculations": {
-            "Building Premium": 469.0,
-            "Content Premium": 0.0,
-            "Increased Cost of Compliance (ICC) Premium": 9.0,
-            "Community Rating System Reduction": -99.0,
-            "Full Risk Premium": 379.0,
-            "Reserve Fund Assessment": 68.0,
-            "HFIAA Surcharge": 25.0,
-            "Federal Policy Fee": 47.0,
-            "Total Quoted Premium": 519.0
-        },
-        "Insurance Company": {
-            "Name": "Monarch National Insurance Company",
-            "Website": "https://monarchnational.com/",
-            "Phone": "(800) 219-3102",
-            "PO Box": "2057 Kalispell MT 59903 USA"
-        },
-        "Effective Date": "05-07-2024",
-        "Expiration Date": "05-07-2025", 
-        "Waiting Period": "Loan Transaction - No Wait"
+        "Signature of Policy Holder (Optional) Date": "",
+        "Date": "APC PRV 07 21"
     }
-}
+} 

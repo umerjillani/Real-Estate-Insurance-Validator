@@ -188,5 +188,5 @@ if __name__ == "__main__":
         save_text=False,
         model="gpt-4o",
         temperature=0,
-        clean_non_ascii=True
+        clean_non_ascii=True 
     ) 
