@@ -1391,29 +1391,46 @@ print("\nRule 10\n----------------------------------------------------")
 def verify_Machinery_logic(bfe, flood_zone_app, machinery, diagramNumber_pdf, diagram_choices_14, top_of_next_higher_floor_pdf, c2e_elevation_of_machinery, top_of_bottom_floor_pdf, e4_top_of_platform, e1b, h2, diagram_choices_15, e2):
     results = []
     status = "✅"
-    
-    if flood_zone_app in ['x', 'b', 'c', 'a99']: 
-        results.append(f"✅ Flood Zone is among these 'X, B, C, A99'. BFE Logic is not applicable. Moving next...\n") 
-        status = "✅"
+    SFHA = False
 
-    if c2e_elevation_of_machinery is not None and bfe is not None:
+    if str(flood_zone_app).strip().upper() in ['X', 'B', 'C', 'A99']:
+        results.append(f"✅ Flood Zone is among these 'X, B, C, A99'. BFE Logic is not applicable. Moving next...\n") 
+        status = "✅"  
+
+    SFHA_list = [
+        "A", "AE",
+        "A1", "A2", "A3", "A4", "A5", "A6", "A7", "A8", "A9", "A10",
+        "A11", "A12", "A13", "A14", "A15", "A16", "A17", "A18", "A19", "A20",
+        "A21", "A22", "A23", "A24", "A25", "A26", "A27", "A28", "A29", "A30",
+        "AH", "AO", "A99", 
+        "V", "VE",
+        "V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8", "V9", "V10",
+        "V11", "V12", "V13", "V14", "V15", "V16", "V17", "V18", "V19", "V20",
+        "V21", "V22", "V23", "V24", "V25", "V26", "V27", "V28", "V29", "V30"
+    ]
+
+    if str(flood_zone_app).strip().upper() in SFHA_list:
+        SFHA = True
+
+    if SFHA and bfe is not None:
         if c2e_elevation_of_machinery >= bfe:
+            print("Property in SFHA, and BFE is present.\n") 
             results.append(f"✅ Machinery elevation {c2e_elevation_of_machinery} is at or above BFE {bfe}.\n")
             status = "✅"
         else:
-            results.append(f"⚠️ Machinery elevation {c2e_elevation_of_machinery} is below BFE {bfe}. Proceeding with next logic...\n") 
-            status = "⚠️"
+            results.append(f"❌ Machinery elevation {c2e_elevation_of_machinery} is below BFE {bfe}. Continue to Steps 2–4.\n")
+            status = "❌"
     else:
-        results.append("⚠️ Missing data: Machinery elevation or BFE not provided. Moving next...\n")
-        status = "⚠️"
+        results.append("⚠️ Property is not in SFHA or BFE not provided. Continue to Steps 2–4.\n") 
+        status = "❌"
 
     if str(machinery).lower().strip() == "yes":
         results.append("Machinery or Equipment Above is present in the application. ✅")
 
         if str(diagramNumber_pdf).lower().strip() in diagram_choices_14: 
-            if top_of_next_higher_floor_pdf:
+            if top_of_next_higher_floor_pdf is not None:
                 if c2e_elevation_of_machinery >= top_of_next_higher_floor_pdf:
-                    results.append("Elevation Logic matched. The M&E elevation on the EC support the M&E mitigation discount. ✅")
+                    results.append("Elevation Logic matched. The M&E elevation on the EC support the M&E mitigation discount. ✅") 
                 else:
                     results.append("The M&E elevation on the EC does not appear to support the M&E mitigation discount. Underwriting review required. ❌")
                     status = "❌"
