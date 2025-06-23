@@ -1393,6 +1393,7 @@ def verify_Machinery_logic(bfe, flood_zone_app, machinery, diagramNumber_pdf, di
     status = "✅"
     SFHA = False
 
+    # Check if flood zone is not subject to BFE logic
     if str(flood_zone_app).strip().upper() in ['X', 'B', 'C', 'A99']:
         results.append(f"✅ Flood Zone is among these 'X, B, C, A99'. BFE Logic is not applicable. Moving next...\n") 
         status = "✅"  
@@ -1412,11 +1413,17 @@ def verify_Machinery_logic(bfe, flood_zone_app, machinery, diagramNumber_pdf, di
     if str(flood_zone_app).strip().upper() in SFHA_list:
         SFHA = True
 
+    # SFHA Logic - Skip remaining checks if conditions are met
     if SFHA and bfe is not None:
         if c2e_elevation_of_machinery >= bfe:
             print("Property in SFHA, and BFE is present.\n") 
-            results.append(f"✅ Machinery elevation {c2e_elevation_of_machinery} is at or above BFE {bfe}.\n")
+            results.append(f"✅ Machinery elevation {c2e_elevation_of_machinery} is at or above BFE {bfe}. SFHA requirements satisfied - skipping additional checks.\n")
             status = "✅"
+            return { 
+                "rule": "Rule 10 - Machinery Logic Verification",
+                "status": status,
+                "details": results
+            } 
         else:
             results.append(f"❌ Machinery elevation {c2e_elevation_of_machinery} is below BFE {bfe}. Continue to Steps 2–4.\n")
             status = "❌"
@@ -1424,6 +1431,7 @@ def verify_Machinery_logic(bfe, flood_zone_app, machinery, diagramNumber_pdf, di
         results.append("⚠️ Property is not in SFHA or BFE not provided. Continue to Steps 2–4.\n") 
         status = "❌"
 
+    # Continue with remaining machinery logic only if SFHA conditions weren't satisfied
     if str(machinery).lower().strip() == "yes":
         results.append("Machinery or Equipment Above is present in the application. ✅")
 
